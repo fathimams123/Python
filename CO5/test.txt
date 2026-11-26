@@ -1,0 +1,4 @@
+Python can be used on a server to create web application.
+Python can be used alongside software to create web applicatoion.
+Python can coonect to db system.
+Python can also read and notify files.
